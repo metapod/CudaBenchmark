@@ -1,5 +1,5 @@
 # CudaBenchmark
-A benchmark to see if using the GPU is faster for power conversions
+A benchmark to see if using the GPU is faster for [power conversions](https://en.wikipedia.org/wiki/DBm#Unit_conversions).
 
 I attended a hackathon at work whose theme was GPU processing using nvidia Cuda (or OpenCL). I had never worked with GPUs before and created this little "hello world" type benchmark project before attending.
 
